@@ -1,4 +1,7 @@
 import React from "react";
+import self from "../Assets/self.png";
+import selfs from "../Assets/self-s.png";
+import resume from "../Assets/Brian_Fairbanks_resume_04082020.pdf";
 
 function Index() {
   return (
@@ -11,11 +14,11 @@ function Index() {
 
           {/* <!-- the first one will float left, and display only when medium or bigger--> */}
           <div className="col-md-6 col-lg-4 col-xl-3 d-none d-md-block float-left mr-4" >
-            <img className="img-fluid img-thumbnail" src="Assets/self.png" alt="Brian Fairbanks with his first dog, Kraken" title="Brian Fairbanks with his first dog, Kraken"/>
+            <img className="img-fluid img-thumbnail" src={self} alt="Brian Fairbanks with his first dog, Kraken" title="Brian Fairbanks with his first dog, Kraken"/>
           </div>
             {/* <!-- the scond one here will expand to the full screen, but only be visable on small screens--> */}
             <div className="container-fluid d-block d-md-none mb-2 m-0 p-0" >
-              <img className="img-fluid img-thumbnail" src="Assets/self-s.png" alt="Brian Fairbanks with his first dog, Kraken" title="Brian Fairbanks with his first dog, Kraken"/>
+              <img className="img-fluid img-thumbnail" src={selfs} alt="Brian Fairbanks with his first dog, Kraken" title="Brian Fairbanks with his first dog, Kraken"/>
             </div>
 
               {/* <!--  About Me text content  --> */}
@@ -322,7 +325,7 @@ function Index() {
               </section>
 
               <div className="employment-card card mt-auto text-center p-3">
-                <a target="_blank" href="Assets/Brian_Fairbanks_resume_04082020.pdf" download>
+                <a target="_blank" href={resume} download>
                   <i className="fas fa-file fa-3x fa-icon-only d-block"></i>
                 Resume
             </a>
