@@ -6,6 +6,7 @@ import Header from "./components/Header";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import Index from "./pages/index.js";
+import Error from "./pages/errorPage.js";
 
 function App() {
   return (
@@ -25,7 +26,7 @@ function App() {
             <Index/>
           </Route>
           <Route>
-            <Index/>
+            <Error/>
           </Route>
         </Switch>
         <Footer />
