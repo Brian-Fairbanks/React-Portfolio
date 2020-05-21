@@ -9,8 +9,9 @@ function Portfolio() {
         <h2>Portfolio</h2>
         <hr />
         <div id="portfolio-well" className="row m-auto">
-          {projects.map( project => {return (
+          {projects.map( (project, index) => {return (
             <Project
+              key={index}
               imglink={project.imglink}
               alt = {project.alt}
               name={project.name}
