@@ -8,6 +8,7 @@ import Footer from "./components/Footer";
 import Index from "./pages/index.js";
 import Error from "./pages/errorPage.js";
 import Portfolio from './pages/portfolio';
+import Contact from './pages/contact';
 
 function App() {
   return (
@@ -24,7 +25,7 @@ function App() {
             <Portfolio/>
           </Route>
           <Route exact path={["/contact"]}>
-            <Index/>
+            <Contact />
           </Route>
           <Route>
             <Error/>
