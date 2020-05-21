@@ -1,5 +1,6 @@
 import React from "react";
 import Project from "../components/Project";
+import projects from "../projects.json";
 
 function Portfolio() {
   return (
@@ -8,7 +9,16 @@ function Portfolio() {
         <h2>Portfolio</h2>
         <hr />
         <div id="portfolio-well" className="row m-auto">
-          <Project/>
+          {projects.map( project => {return (
+            <Project
+              imglink={project.imglink}
+              alt = {project.alt}
+              name={project.name}
+              description={project.description}
+              repoLink={project.repoLink}
+              deployLink = {project.deployLink}
+            />)}
+          )}
         </div>
       </div>
     </article>
