@@ -18,7 +18,7 @@ function App() {
           <Nav />
         </Header>
         <Switch>
-        <Route exact path={["/","/index"]}>
+        <Route exact path={["/","/index", "/React-Portfolio"]}>
             <Index/>
           </Route>
           <Route exact path={["/portfolio"]}>
