@@ -1,6 +1,6 @@
 [
   {
-    "imglink":"../../Assets/Projects/procTerGen.jpg",
+    "imglink":"/React-Portfolio/Assets/Projects/procTerGen.jpg",
     "alt":"Single chunk of terrain, meshed, and shaded",
     "name":"Endless Terrain Generator",
     "description":"A Unity project, developed in c#, to generate a land mass mesh based on multiple passes of perlin noise, which will grab new chunks as needed to generate an endless terrain.",
@@ -8,7 +8,7 @@
     "deployLink":""
   },
   {
-    "imglink":"../../Assets/Projects/w4logo.PNG",
+    "imglink":"/React-Portfolio/Assets/Projects/w4logo.PNG",
     "alt":"W4 Screenshot",
     "name":"Watch What Where When",
     "description":"W4 is a Movie and TV show tacking app, which allows you to search out movies and tv shows, gleam information about them, and add them to a personalized watchlist for registered users. User views for each content are logged, sorted, and added to the trending main page.",
@@ -16,7 +16,7 @@
     "deployLink":"https://wfourbkf.herokuapp.com/"
   },
   {
-    "imglink":"../../Assets/Projects/soundThis.png",
+    "imglink":"/React-Portfolio/Assets/Projects/soundThis.png",
     "alt":"Sound This screenshot",
     "name":"SoundThis",
     "description":"Implementation of multiple different Restful APIs to search for artist/group info, Albums, Shows, and related artists.",
@@ -24,7 +24,7 @@
     "deployLink":"https://brian-fairbanks.github.io/SoundThis/"
   },
   {
-    "imglink":"../.Quiz Game",
+    "imglink":"/React-Portfolio/Assets/Projects/quizGame.PNG",
     "alt":"Quiz Game Screenshot",
     "name":"Quiz Game",
     "description":"A JavaScript coding quiz, tracking answers given for a review, and implementing local storage to save and load high scores",
@@ -32,7 +32,7 @@
     "deployLink":"https://brian-fairbanks.github.io/QuizGame/"
   },
   {
-    "imglink":"../../Assets/Projects/weatherDashboard.PNG",
+    "imglink":"/React-Portfolio/Assets/Projects/weatherDashboard.PNG",
     "alt":"Weather Dashboard screenshot",
     "name":"Weather Dashboard",
     "description":"A Javascript Restful API project to pull the current and forcasted weather for any given city, along with local storage saving/loading past searches.",
@@ -40,7 +40,7 @@
     "deployLink":"https://brian-fairbanks.github.io/WeatherDashboard/"
   },
   {
-    "imglink":"../../Assets/Projects/directory.png",
+    "imglink":"/React-Portfolio/Assets/Projects/directory.png",
     "alt":"Employee Directory Screenshot",
     "name":"Employee Directory",
     "description":"A React powered Employee Directory.  It allows a user to view their entire staff, as well as sort and filter to more easily find the information that they are searching for.",
