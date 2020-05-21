@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.49ca4100.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.aead24b3.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.aead24b3.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.8b0e39e5.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.8b0e39e5.js.map",
-    "static/js/2.b50f9d4e.chunk.js": "/react-portfolio/static/js/2.b50f9d4e.chunk.js",
-    "static/js/2.b50f9d4e.chunk.js.map": "/react-portfolio/static/js/2.b50f9d4e.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "precache-manifest.02f45a37ec0aedf6eff2ad2009036c8e.js": "/react-portfolio/precache-manifest.02f45a37ec0aedf6eff2ad2009036c8e.js",
-    "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.49ca4100.chunk.css.map": "/react-portfolio/static/css/main.49ca4100.chunk.css.map",
-    "static/js/2.b50f9d4e.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.b50f9d4e.chunk.js.LICENSE.txt",
-    "static/media/Brian_Fairbanks_resume_04082020.pdf": "/react-portfolio/static/media/Brian_Fairbanks_resume_04082020.d37bafab.pdf",
-    "static/media/App.css": "/react-portfolio/static/media/backtile.0aa32de8.jpg",
-    "static/media/self-s.png": "/react-portfolio/static/media/self-s.7564f041.png",
-    "static/media/self.png": "/react-portfolio/static/media/self.bb467161.png"
+    "main.css": "/React-Portfolio/static/css/main.9602d97b.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.b0da2304.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.b0da2304.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.2a6deb6b.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.2a6deb6b.js.map",
+    "static/js/2.b50f9d4e.chunk.js": "/React-Portfolio/static/js/2.b50f9d4e.chunk.js",
+    "static/js/2.b50f9d4e.chunk.js.map": "/React-Portfolio/static/js/2.b50f9d4e.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.16e4e859b7867e896a0b7d02bd1a7f35.js": "/React-Portfolio/precache-manifest.16e4e859b7867e896a0b7d02bd1a7f35.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.9602d97b.chunk.css.map": "/React-Portfolio/static/css/main.9602d97b.chunk.css.map",
+    "static/js/2.b50f9d4e.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.b50f9d4e.chunk.js.LICENSE.txt",
+    "static/media/Brian_Fairbanks_resume_04082020.pdf": "/React-Portfolio/static/media/Brian_Fairbanks_resume_04082020.d37bafab.pdf",
+    "static/media/App.css": "/React-Portfolio/static/media/backtile.0aa32de8.jpg",
+    "static/media/self-s.png": "/React-Portfolio/static/media/self-s.7564f041.png",
+    "static/media/self.png": "/React-Portfolio/static/media/self.bb467161.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b0e39e5.js",
+    "static/js/runtime-main.2a6deb6b.js",
     "static/js/2.b50f9d4e.chunk.js",
-    "static/css/main.49ca4100.chunk.css",
-    "static/js/main.aead24b3.chunk.js"
+    "static/css/main.9602d97b.chunk.css",
+    "static/js/main.b0da2304.chunk.js"
   ]
 }
