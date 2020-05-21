@@ -7,6 +7,7 @@ import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import Index from "./pages/index.js";
 import Error from "./pages/errorPage.js";
+import Portfolio from './pages/portfolio';
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
             <Index/>
           </Route>
           <Route exact path={["/portfolio"]}>
-            <Index/>
+            <Portfolio/>
           </Route>
           <Route exact path={["/contact"]}>
             <Index/>
